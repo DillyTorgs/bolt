@@ -1,0 +1,95 @@
+{
+  "status": 200,
+  "data": [
+    {
+      "id": "course-template",
+      "title": "Course Template",
+      "description": "Perfect for creating structured course content with modules, lessons, and assignments",
+      "image": "https://haxtheweb.org/assets/course-template.jpg",
+      "tags": ["education", "course"],
+      "demoUrl": "https://hax.cloud?use-case=course-template",
+      "timestamp": 1699123200,
+      "features": ["Syllabus", "Assignments", "Gradebook"]
+    },
+    {
+      "id": "portfolio",
+      "title": "Professional Portfolio",
+      "description": "Showcase your work and achievements with a clean, modern portfolio layout",
+      "image": "https://haxtheweb.org/assets/portfolio.jpg",
+      "tags": ["portfolio", "professional"],
+      "demoUrl": "https://hax.cloud?use-case=portfolio",
+      "timestamp": 1699036800,
+      "features": ["Project Gallery", "Resume", "Contact Form"]
+    },
+    {
+      "id": "research-lab",
+      "title": "Research Lab",
+      "description": "Share research findings, publications, and team information",
+      "image": "https://haxtheweb.org/assets/research.jpg",
+      "tags": ["research", "academic"],
+      "demoUrl": "https://hax.cloud?use-case=research-lab",
+      "timestamp": 1698950400,
+      "features": ["Publications", "Team Profiles", "Research Projects"]
+    },
+    {
+      "id": "blog",
+      "title": "Personal Blog",
+      "description": "Express yourself with a customizable blog template",
+      "image": "https://haxtheweb.org/assets/blog.jpg",
+      "tags": ["blog", "personal"],
+      "demoUrl": "https://hax.cloud?use-case=blog",
+      "timestamp": 1698864000,
+      "features": ["Categories", "Comments", "Social Sharing"]
+    },
+    {
+      "id": "event-site",
+      "title": "Event Website",
+      "description": "Promote and manage events with an engaging layout",
+      "image": "https://haxtheweb.org/assets/event.jpg",
+      "tags": ["events", "professional"],
+      "demoUrl": "https://hax.cloud?use-case=event-site",
+      "timestamp": 1698777600,
+      "features": ["Schedule", "Registration", "Speaker Profiles"]
+    },
+    {
+      "id": "documentation",
+      "title": "Documentation Site",
+      "description": "Create comprehensive documentation with searchable content",
+      "image": "https://haxtheweb.org/assets/docs.jpg",
+      "tags": ["documentation", "technical"],
+      "demoUrl": "https://hax.cloud?use-case=documentation",
+      "timestamp": 1698691200,
+      "features": ["Search", "Version Control", "Code Snippets"]
+    },
+    {
+      "id": "department",
+      "title": "Department Site",
+      "description": "Showcase your department's programs and faculty",
+      "image": "https://haxtheweb.org/assets/department.jpg",
+      "tags": ["academic", "professional"],
+      "demoUrl": "https://hax.cloud?use-case=department",
+      "timestamp": 1698604800,
+      "features": ["Faculty Directory", "Programs", "News"]
+    },
+    {
+      "id": "project",
+      "title": "Project Showcase",
+      "description": "Highlight your project's features and progress",
+      "image": "https://haxtheweb.org/assets/project.jpg",
+      "tags": ["project", "technical"],
+      "demoUrl": "https://hax.cloud?use-case=project",
+      "timestamp": 1698518400,
+      "features": ["Roadmap", "Updates", "Team"]
+    },
+    {
+      "id": "community",
+      "title": "Community Hub",
+      "description": "Build an engaging community platform",
+      "image": "https://haxtheweb.org/assets/community.jpg",
+      "tags": ["community", "social"],
+      "demoUrl": "https://hax.cloud?use-case=community",
+      "timestamp": 1698432000,
+      "features": ["Forums", "Events", "Member Profiles"]
+    }
+  ]
+}

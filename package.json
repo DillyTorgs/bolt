@@ -1,0 +1,19 @@
+{
+  "name": "hax-theme-picker",
+  "version": "1.0.0",
+  "description": "HAX Theme Picker Interface",
+  "type": "module",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "rollup -c"
+  },
+  "dependencies": {
+    "lit": "^3.1.0"
+  },
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1",
+    "@rollup/plugin-node-resolve": "^15.2.3",
+    "rollup": "^4.6.1"
+  }
+}
